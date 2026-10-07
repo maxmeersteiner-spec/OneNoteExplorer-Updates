@@ -1,0 +1,10 @@
+{
+  "schemaVersion": 1,
+  "version": "1.1.1",
+  "minimumSupportedVersion": "1.1.1",
+  "mandatory": false,
+  "releaseNotes": "Fehlerbehebungen, verbessertes Redesign und integrierte Update-Funktion.",
+  "downloadUrl": "https://maxmeersteiner-spec.github.io/OneNoteExplorer-Updates/OneNoteExplorer-Setup-v1.1.1.exe",
+  "sha256": "17bbcdd877c91d4c12d541a5939723bf658970c21c3dd0995f6cd2fc41113c9e",
+  "size": 2289407
+}
